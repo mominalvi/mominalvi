@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a startup with the QICSI 2024 cohort<br><br>👯 I’m looking to collaborate on open source projects<br><br>📫 You can reach me at mominalvi30@gmail.com<br><br>⚡ Fun fact I am always at the gym and I love food!
+🔭 I’m currently working on building a startup with the QICSI 2024 cohort<br><br>👯 I’m looking to collaborate on open source projects<br><br>📫 You can reach me at momin.alvi@queensu.ca<br><br>⚡ Fun fact I am always at the gym and I love food!
 
 
 ## 🌐 Socials:

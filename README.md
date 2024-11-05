@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently seeking a 12-16 month internship for 2025<br><br>👯 I’m looking to collaborate on open source projects<br><br>📫 You can reach me at momin.alvi@queensu.ca<br><br>⚡ Fun fact I am always at the gym and I love food!
+🔭 I’m currently seeking a 12-16 month internship for 2025<br><br>📫 You can reach me at momin.alvi@queensu.ca<br><br>⚡ Fun fact I am always at the gym and I love food!
 
 
 ## 🌐 Socials:

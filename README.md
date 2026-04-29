@@ -13,11 +13,11 @@
   <tr>
     <td align="center" valign="top" style="padding: 0 12px;">
       <div style="height: 200px; overflow: hidden; display: inline-block; vertical-align: top;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVhOXp2dzFyZGIyamc1Y2l4NmdvNTlnMGNuZ3BmOXRlamI5MHF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZG8CyDxyLgHAlfXVvx/giphy.gif" alt="Animated GIF" height="267" style="display: block;" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" height="267" style="display: block;" />
       </div>
     </td>
     <td align="center" valign="top" style="padding: 0 12px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxxcjhxYW9nMm51cHB0aDQ1ZzdkaHdzYjdxcnBrajJobWY5bWMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Zgy9QqzWU8C3ugvCa/giphy.gif" alt="" height="200" style="display: block; vertical-align: top;" />
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF" height="200" style="display: block; vertical-align: top;" />
     </td>
   </tr>
 </table>
@@ -39,17 +39,15 @@
 | Category | Detail |
 | :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🎓 **Education** | **Queen's University** — Computer Science |
-| 💼 **Internships** | **Riipen** — Software Engineering Intern<br><sub>2025 · Remote</sub> |
+| 💼 **Internship** | **Ontario Teachers' Pension Plan (OTPP)** — Product Engineering Intern<br><sub>2025 · Toronto</sub><br><br>Backend / API work, AI & search experimentation (Snowflake Cortex), Playwright testing automation, and product engineering inside a real enterprise codebase. |
 | 🚀 **CoursifyQU** | Course insights for Queen's — data from Reddit & RateMyProfessors, plus a **RAG** assistant.<br><br>**Links:** [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers) |
 | 🔧 **LeetCode Tracker** | CLI tool for tracking LeetCode problems with **spaced repetition** scheduling.<br><br>**Source:** [leetcode-tracker](https://github.com/mominalvi/leetcode-tracker) |
-| 🎵 **AI Song Detector** | Detects AI-generated music using machine learning.<br><br>**Source:** [ai-song-detector](https://github.com/mominalvi/ai-song-detector) |
 
 <details>
 <summary><strong>Recent project links (quick list)</strong></summary>
 
 - **CoursifyQU** — [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers)
 - **LeetCode Tracker** — [leetcode-tracker](https://github.com/mominalvi/leetcode-tracker)
-- **AI Song Detector** — [ai-song-detector](https://github.com/mominalvi/ai-song-detector)
 - **Personal Portfolio** — [personal-portfolio](https://github.com/mominalvi/personal-portfolio)
 
 </details>

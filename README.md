@@ -28,9 +28,9 @@
 
 ---
 
-## Fan of doing stuff
+## Focus
 
-> I'm passionate about building things people **like to use**, and I'm especially interested in **full-stack** development and **AI**.
+> AI, Software engineering, backend systems, and building things that feel useful instead of just impressive.
 
 ---
 

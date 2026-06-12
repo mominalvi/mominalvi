@@ -30,27 +30,23 @@
 
 ## Focus
 
-> AI, Software engineering, backend systems, and building things that feel useful instead of just impressive.
+> Software engineering, AI and automation, and backend systems. I like building things people actually use.
 
 ---
 
 ## Highlights
 
 | Category | Detail |
-| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎓 **Education** | **Queen's University** — Computer Science |
-| 💼 **Internship** | **Ontario Teachers' Pension Plan (OTPP)** — Software Engineer Intern<br><sub>2025 · Toronto</sub><br><br>Backend / API work, AI & automation experimentation, and software/product engineering inside a real enterprise codebase. |
-| 🚀 **CoursifyQU** | Course insights for Queen's — data from Reddit & RateMyProfessors, plus a **RAG** assistant.<br><br>**Links:** [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers) |
-| 🔧 **LeetCode Tracker** | CLI tool for tracking LeetCode problems with **spaced repetition** scheduling.<br><br>**Source:** [leetcode-tracker](https://github.com/mominalvi/leetcode-tracker) |
+| :--- | :--- |
+| 🎓 **Education** | **Queen's University** — Computer Science, 4th year (expected April 2027) |
+| 💼 **OTPP** | **Software Engineer Intern, Member Digital** — the secure member portal on otpp.com.<br><sub>2025–present · Toronto</sub><br><br>Security and dependency hardening, Spring Boot migrations, and **Digital Admin**, an internal tool teams use to schedule and notify members about site outages. Also pushed AI into the team's day-to-day — MCP-based workflows and a script that auto-triages Dependabot and code-scanning alerts. |
+| 🚀 **Coursify** | Free course-planning site for Queen's students, live at **[coursify.ca](https://coursify.ca)**. Brings everything you need before enrolling into one place — grade distributions, student sentiment pulled from Reddit and RateMyProfessors, an AI chatbot, course search across the full catalog, and a schedule planner built on live SOLUS section data.<br><br>**Links:** [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers) |
 
-<details>
-<summary><strong>Recent project links (quick list)</strong></summary>
+### Pinned
 
-- **CoursifyQU** — [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers)
-- **LeetCode Tracker** — [leetcode-tracker](https://github.com/mominalvi/leetcode-tracker)
-- **Personal Portfolio** — [personal-portfolio](https://github.com/mominalvi/personal-portfolio)
-
-</details>
+- **[reddit-scraper](https://github.com/mominalvi/reddit-scraper)** — a staged research pipeline that mines Reddit discussions for recurring pain points and turns the strongest one into a grounded product idea.
+- **[leetcode-tracker](https://github.com/mominalvi/leetcode-tracker)** — CLI for tracking LeetCode problems and revisiting them with spaced repetition.
+- **[personal-portfolio](https://github.com/mominalvi/personal-portfolio)** — experience, projects, skills, and selected work.
 
 ---
 

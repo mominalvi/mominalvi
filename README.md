@@ -2,7 +2,7 @@
 
 # Hello, I'm Momin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" height="32" alt="Waving hand" />
 
-**Queen's CS · Software engineering**
+**Queen's CS · Software Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momin-alvi/)
 [![Email](https://img.shields.io/badge/Email-momin.alvi%40queensu.ca-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:momin.alvi@queensu.ca)
@@ -39,7 +39,7 @@
 | Category | Detail |
 | :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🎓 **Education** | **Queen's University** — Computer Science |
-| 💼 **Internship** | **Ontario Teachers' Pension Plan (OTPP)** — Product Engineering Intern<br><sub>2025 · Toronto</sub><br><br>Backend / API work, AI & automation experimentation, and product engineering inside a real enterprise codebase. |
+| 💼 **Internship** | **Ontario Teachers' Pension Plan (OTPP)** — Software Engineer Intern<br><sub>2025 · Toronto</sub><br><br>Backend / API work, AI & automation experimentation, and software/product engineering inside a real enterprise codebase. |
 | 🚀 **CoursifyQU** | Course insights for Queen's — data from Reddit & RateMyProfessors, plus a **RAG** assistant.<br><br>**Links:** [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers) |
 | 🔧 **LeetCode Tracker** | CLI tool for tracking LeetCode problems with **spaced repetition** scheduling.<br><br>**Source:** [leetcode-tracker](https://github.com/mominalvi/leetcode-tracker) |
 

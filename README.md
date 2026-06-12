@@ -39,14 +39,14 @@
 | Category | Detail |
 | :--- | :--- |
 | 🎓 **Education** | **Queen's University** — Computer Science, 4th year (expected April 2027) |
-| 💼 **OTPP** | **Software Engineer Intern, Member Digital** — the secure member portal on otpp.com.<br><sub>2025–present · Toronto</sub><br><br>Security and dependency hardening, Spring Boot migrations, and **Digital Admin**, an internal tool teams use to schedule and notify members about site outages. Also pushed AI into the team's day-to-day — MCP-based workflows and a script that auto-triages Dependabot and code-scanning alerts. |
-| 🚀 **Coursify** | Free course-planning site for Queen's students, live at **[coursify.ca](https://coursify.ca)**. Brings everything you need before enrolling into one place — grade distributions, student sentiment pulled from Reddit and RateMyProfessors, an AI chatbot, course search across the full catalog, and a schedule planner built on live SOLUS section data.<br><br>**Links:** [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers) |
+| 💼 **OTPP** | Software Engineer Intern on the Member Digital team, which owns the secure member portal on otpp.com.<br><sub>2025–present · Toronto</sub><br><br>Work spans backend, security, internal tooling, and bringing AI into the team's everyday workflows. |
+| 🚀 **Coursify** | Free course-planning site for Queen's students, live at **[coursify.ca](https://coursify.ca)**. Brings everything you need before enrolling into one place: grade distributions, student sentiment pulled from Reddit and RateMyProfessors, an AI chatbot, course search across the full catalog, and a schedule planner built on live SOLUS section data.<br><br>**Links:** [Web app](https://github.com/CoursifyQU/Coursify-WebApp) · [Scrapers](https://github.com/CoursifyQU/Coursify-Scrapers) |
 
 ### Pinned
 
-- **[reddit-scraper](https://github.com/mominalvi/reddit-scraper)** — a staged research pipeline that mines Reddit discussions for recurring pain points and turns the strongest one into a grounded product idea.
-- **[leetcode-tracker](https://github.com/mominalvi/leetcode-tracker)** — CLI for tracking LeetCode problems and revisiting them with spaced repetition.
-- **[personal-portfolio](https://github.com/mominalvi/personal-portfolio)** — experience, projects, skills, and selected work.
+- **[reddit-scraper](https://github.com/mominalvi/reddit-scraper)**: a staged research pipeline that mines Reddit discussions for recurring pain points and turns the strongest one into a grounded product idea.
+- **[leetcode-tracker](https://github.com/mominalvi/leetcode-tracker)**: CLI for tracking LeetCode problems and revisiting them with spaced repetition.
+- **[personal-portfolio](https://github.com/mominalvi/personal-portfolio)**: experience, projects, skills, and selected work.
 
 ---
 
